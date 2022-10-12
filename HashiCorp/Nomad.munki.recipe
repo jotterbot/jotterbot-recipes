@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the current release of Nomad from http://nomadproject.io
-and builds a package installing it to /usr/local/bin.</string>
+    <string>Downloads the current release of Nomad from http://nomadproject.io and builds a package installing it to /usr/local/bin.</string>
     <key>Identifier</key>
     <string>com.github.jotterbot.munki.Nomad</string>
     <key>Input</key>
